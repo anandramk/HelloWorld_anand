@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CustomStatuses xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Statuses>
+    <Status>
+      <UniqueID>fd89c4a1-50cf-4eed-b88d-8a157f336073</UniqueID>
+      <Priority>6</Priority>
+      <StatusID>Fail</StatusID>
+      <StatusName>Failed</StatusName>
+      <Description />
+      <Color>Red</Color>
+      <CountAsPass>false</CountAsPass>
+      <NotAddToCache>true</NotAddToCache>
+    </Status>
+    <Status>
+      <UniqueID>6dfc70ff-d9ab-47cd-a888-c8b25c6d9c87</UniqueID>
+      <Priority>5</Priority>
+      <StatusID>KnFail</StatusID>
+      <StatusName>Known Fail</StatusName>
+      <Description />
+      <Color>IndianRed</Color>
+      <CountAsPass>false</CountAsPass>
+      <NotAddToCache>false</NotAddToCache>
+    </Status>
+    <Status>
+      <UniqueID>03e75f31-0b29-4ae8-ab6f-cebfb3f266bc</UniqueID>
+      <Priority>3</Priority>
+      <StatusID>ScrF</StatusID>
+      <StatusName>Script Fail</StatusName>
+      <Description />
+      <Color>Coral</Color>
+      <CountAsPass>true</CountAsPass>
+      <NotAddToCache>true</NotAddToCache>
+    </Status>
+    <Status>
+      <UniqueID>1aed0fd1-439a-4943-985d-241f85814ed6</UniqueID>
+      <Priority>4</Priority>
+      <StatusID>IDF</StatusID>
+      <StatusName>Input Data Fail</StatusName>
+      <Description />
+      <Color>DarkSalmon</Color>
+      <CountAsPass>true</CountAsPass>
+      <NotAddToCache>true</NotAddToCache>
+    </Status>
+    <Status>
+      <UniqueID>de9645d4-8bc5-4b0f-8604-20280736745d</UniqueID>
+      <Priority>1</Priority>
+      <StatusID>NRF</StatusID>
+      <StatusName>Not reproducible fail</StatusName>
+      <Description />
+      <Color>Gold</Color>
+      <CountAsPass>true</CountAsPass>
+      <NotAddToCache>true</NotAddToCache>
+    </Status>
+  </Statuses>
+</CustomStatuses>
