@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>HelloWorld_anand</RootNamespace>
+    <AssemblyName>HelloWorld_anand</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="anand.cs" />
+    <Compile Include="hello.cs" />
+    <Compile Include="prodflexdata.cs" />
+  </ItemGroup>
+
+</Project>
